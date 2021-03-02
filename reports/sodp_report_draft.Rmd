@@ -2,7 +2,7 @@
 title: "Surveying Open Data Practices - 2020"
 author: "Anelda van der Walt"
 date: "26/10/2020"
-output: 
+output:  
   officedown::rdocx_document:
     reference_docx: "../common/sodp_report_draft_style_reference.docx"
 lang: "en-UK"
